@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Event Workflow Management Service
 
 The main goal of the Event Workflow Management Service (EWMS) project is to

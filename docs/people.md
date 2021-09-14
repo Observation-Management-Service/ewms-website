@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # People
 
 The Event Workflow Management Service is brought to you by the following:
