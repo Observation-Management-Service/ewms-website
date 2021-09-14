@@ -12,8 +12,6 @@ resource envelopes and pipelines data transfer.
 
 ## EWMS Architecture
 
-
-
 * **Workflow Management Service**: the control layer, user interface, and
   data provenance provider for workflows.
 * **Data Distribution Service**: uses message queues to manage O(100 TB)

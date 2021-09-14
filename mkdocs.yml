@@ -1,5 +1,8 @@
 site_name: Event Workflow Management Service
 copyright: Copyright &copy; 2021
+nav:
+  - Home: index.md
+  - People: people.md
 theme:
   name: material
   palette:
@@ -16,10 +19,14 @@ theme:
   features:
     - search.suggest
     - search.highlight
+extra_css:
+  - stylesheets/people.css
 markdown_extensions:
   - pymdownx.highlight
   - pymdownx.inlinehilite
   - pymdownx.keys
+  - md_in_html
+  - smarty
   - pymdownx.snippets
   - pymdownx.superfences
 plugins:
